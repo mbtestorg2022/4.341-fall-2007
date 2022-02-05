@@ -36,11 +36,48 @@ Horenstein, Henry. _Black and White Photography: A Basic Manual (excerpts)_. New
 Grading Criteria
 ----------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final/midterm project | 33% |
-| Conceptual and technical development throughout semester | 33% |
-| Classroom contribution and engagement | 33% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final/midterm project
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Conceptual and technical development throughout semester
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classroom contribution and engagement
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance
 ----------

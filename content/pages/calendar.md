@@ -4,50 +4,414 @@ title: Calendar
 uid: 5651909e-a209-3ff4-e3ba-e9a8c628205c
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Week 1**{{< /td-colspan >}} ||
-| 1 | Course philosophy, introduction to facilities, term assignment, introductory slide lecture |
-| {{< td-colspan 2 >}}**Week 2**{{< /td-colspan >}} ||
-| 2 | Introduction to 35mm camera (bring your camera if available), darkroom orientation: film development, contact printing |
-| 3 |  {{< br >}}{{< br >}} Site visit: Aude Oliva presentation, discuss Sacks reading {{< br >}}{{< br >}} First class review {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Week 3**{{< /td-colspan >}} ||
-| 4 | Darkroom workshop: printing, drying; production time / individual reviews |
-| 5 |  {{< br >}}{{< br >}} Student presentations, film: La Jetée / Chris Marker {{< br >}}{{< br >}} Class review {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Week 4**{{< /td-colspan >}} ||
-| 6 |  {{< br >}}{{< br >}} Discussion of Mitchell and Elkins text, introduction to digital cameras {{< br >}}{{< br >}} Class review {{< br >}}{{< br >}}  |
-| 7 | Introduction to digital imaging |
-| 8 | Darkroom workshop: large format printing / experimental techniques |
-| {{< td-colspan 2 >}}**Week 5**{{< /td-colspan >}} ||
-| 9 |  {{< br >}}{{< br >}} Pinhole camera presentation (James Smith) {{< br >}}{{< br >}} Class review {{< br >}}{{< br >}}  |
-| 10 | Site visit: Pawan Sinha presentation, metal and wood workshop tour, experimental photographic techniques, discuss Hirsch reading |
-| {{< td-colspan 2 >}}**Week 6**{{< /td-colspan >}} ||
-| 11 |  {{< br >}}{{< br >}} Student presentations, André Valente presentation {{< br >}}{{< br >}} Class review {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Week 7**{{< /td-colspan >}} ||
-| 12 | Adobe Photoshop workshop I, introduction to medium format cameras |
-| 13 |  {{< br >}}{{< br >}} Student presentations {{< br >}}{{< br >}} Class review {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Week 8**{{< /td-colspan >}} ||
-| 14 | Student presentations, view camera workshop, darkroom workshop: retouching and mounting, large format camera workshop with Charles Fendrock, MIT alum |
-| 15 |  {{< br >}}{{< br >}} Student presentations, site visit: Sebastian Seung, presentation {{< br >}}{{< br >}} Class review {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Week 9**{{< /td-colspan >}} ||
-| 16 |  {{< br >}}{{< br >}} Midterm reviews {{< br >}}{{< br >}} Guest critic: Donna Nield {{< br >}}{{< br >}}  |
-| 17 | Presentation of exhibition proposal with BCS |
-| {{< td-colspan 2 >}}**Week 10**{{< /td-colspan >}} ||
-| 18 | Student presentations, Adobe Photoshop workshop II, List Visual Arts Center exhibition visit |
-| 19 | Student presentations, Anne Cahill (Nikon) digital camera and flash workshop |
-| {{< td-colspan 2 >}}**Week 11**{{< /td-colspan >}} ||
-| 20 | Tour of local art scene with Bill Arning |
-| {{< td-colspan 2 >}}**Week 12**{{< /td-colspan >}} ||
-| 21 | Student presentations, workshop: exhibition installation |
-| 22 | Class review |
-| {{< td-colspan 2 >}}**Week 13**{{< /td-colspan >}} ||
-| 23 | Museum of Fine Arts visit |
-| 24 |  {{< br >}}{{< br >}} Artist presentations {{< br >}}{{< br >}} Last class review before finals {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Week 14**{{< /td-colspan >}} ||
-| 25-26 | Production day / individual reviews |
-| {{< td-colspan 2 >}}**Week 15**{{< /td-colspan >}} ||
-| 27 |  {{< br >}}{{< br >}} Final reviews {{< br >}}{{< br >}} Guest critic: Terence Gower {{< br >}}{{< br >}}  |
-| 28 | Clean up and film 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course philosophy, introduction to facilities, term assignment, introductory slide lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to 35mm camera (bring your camera if available), darkroom orientation: film development, contact printing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Site visit: Aude Oliva presentation, discuss Sacks reading
+
+First class review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Darkroom workshop: printing, drying; production time / individual reviews
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student presentations, film: La Jetée / Chris Marker
+
+Class review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Mitchell and Elkins text, introduction to digital cameras
+
+Class review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to digital imaging
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Darkroom workshop: large format printing / experimental techniques
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pinhole camera presentation (James Smith)
+
+Class review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Site visit: Pawan Sinha presentation, metal and wood workshop tour, experimental photographic techniques, discuss Hirsch reading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student presentations, André Valente presentation
+
+Class review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Adobe Photoshop workshop I, introduction to medium format cameras
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student presentations
+
+Class review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations, view camera workshop, darkroom workshop: retouching and mounting, large format camera workshop with Charles Fendrock, MIT alum
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student presentations, site visit: Sebastian Seung, presentation
+
+Class review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm reviews
+
+Guest critic: Donna Nield
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of exhibition proposal with BCS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations, Adobe Photoshop workshop II, List Visual Arts Center exhibition visit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations, Anne Cahill (Nikon) digital camera and flash workshop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Tour of local art scene with Bill Arning
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations, workshop: exhibition installation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Class review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Museum of Fine Arts visit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Artist presentations
+
+Last class review before finals
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Production day / individual reviews
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 15**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final reviews
+
+Guest critic: Terence Gower
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Clean up and film
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
