@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Teagan Andres, installation photo #1.'
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
+parent_uid: 608948b5-428e-08ea-fa4b-e3b1c4088130
 resourcetype: Image
 title: 'Teagan Andres, installation photo #1.'
 uid: 0b0c4049-8b4b-9dd1-3f00-7112e0e2b0ec

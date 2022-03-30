@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Ilan Moyer, photograph #1.'
   credit: 'Credit: Image courtesy of Ilan Moyer.'
   image-alt: ''
+parent_uid: 824e3778-ea63-e9d1-d4b1-c62c41099d79
 resourcetype: Image
 title: 'Ilan Moyer, photograph #1.'
 uid: e611ab09-7bb0-15a4-13a0-bbb9405e166c

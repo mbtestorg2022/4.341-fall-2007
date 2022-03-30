@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Jessica Lee, photograph #1.'
   credit: Image courtesy of Jessica Lee
   image-alt: ''
+parent_uid: edbd8af1-b2bb-9854-28f2-aa506f85be5b
 resourcetype: Image
 title: Jessica Lee
 uid: 07b595a9-35f5-e107-c25f-2e7972bcd8ef

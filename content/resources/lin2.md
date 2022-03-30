@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Andy Lin, photograph #2.'
   credit: 'Credit: Image courtesy of Andy Lin'
   image-alt: ''
+parent_uid: e081e9ad-2c64-7b00-1ec9-a11a7dc742ff
 resourcetype: Image
 title: 'Andy Lin, photograph #2.'
 uid: 019b9613-36ea-aedd-e5be-6c1893d917d8

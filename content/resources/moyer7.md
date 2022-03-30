@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Ilan Moyer, installation photo #4.'
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
+parent_uid: 824e3778-ea63-e9d1-d4b1-c62c41099d79
 resourcetype: Image
 title: 'Ilan Moyer, installation photo #4.'
 uid: 51e48bd0-85b3-d9c5-f5c5-cf674132dc5f

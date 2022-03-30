@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Ian Wolfe, installation photo #1.'
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
+parent_uid: 617ff68f-8bf7-760f-c7a4-1f41ae6ec942
 resourcetype: Image
 title: 'Ian Wolfe, installation photo #1.'
 uid: 861376c1-c018-e6ed-9c3f-892d0e576abb

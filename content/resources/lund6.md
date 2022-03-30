@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Gavin Lund, installation photo #2.'
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
+parent_uid: 648ec326-3e9e-0376-d4b7-eb6a35c0469f
 resourcetype: Image
 title: 'Gavin Lund, installation photo #2.'
 uid: 53aab112-9ed5-b5ed-f409-1ad5b55cfb29

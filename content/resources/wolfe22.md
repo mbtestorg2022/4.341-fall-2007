@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Ian Wolfe, photograph #2.'
   credit: 'Credit: Image courtesy of Ian Wolfe.'
   image-alt: ''
+parent_uid: 617ff68f-8bf7-760f-c7a4-1f41ae6ec942
 resourcetype: Image
 title: 'Ian Wolfe, photograph #2.'
 uid: 71882d52-46ef-b8e5-83be-4bab328a9309

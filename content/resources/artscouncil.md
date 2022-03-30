@@ -6,6 +6,7 @@ description: A proposal submitted to the MIT Council for the Arts to help fund t
   Media, as well as photography independent study students.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-341-introduction-to-photography-and-related-media-fall-2007/62c87a756ee53b0b316fcd708e27010c_artscouncil.pdf
 file_type: application/pdf
+parent_uid: 600855e2-0c52-f75d-6912-2698016f2072
 resourcetype: Document
 title: artscouncil.pdf
 uid: 62c87a75-6ee5-3b0b-316f-cd708e27010c

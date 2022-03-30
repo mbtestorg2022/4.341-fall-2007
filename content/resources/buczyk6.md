@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Biyeun Buczyk, installation photo #2.'
   credit: Image courtesy of Adele Phillips and Sadia Shirazi.
   image-alt: ''
+parent_uid: 60274bd4-7c9f-2eec-d187-02ae42bf5507
 resourcetype: Image
 title: Biyeun Buczyk
 uid: 50cd496e-246f-61fc-354a-ae89755680d5

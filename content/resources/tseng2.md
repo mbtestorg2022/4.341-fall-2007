@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Tiffany Tseng, photograph #2.'
   credit: 'Credit: Image courtesy of Tiffany Tseng.'
   image-alt: ''
+parent_uid: 32c1b603-75d5-bffc-ebd4-59a9bba994e8
 resourcetype: Image
 title: 'Tiffany Tseng, photograph #2.'
 uid: 945c19fc-31c1-a06a-0b0f-33e1fd7e3121

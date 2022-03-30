@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Megan Pennington-Boggio, photograph #3.'
   credit: 'Credit: Image courtesy of Megan Pennington-Boggio.'
   image-alt: ''
+parent_uid: ca9e50f9-d2b1-177e-3d9d-a26e6b00ba13
 resourcetype: Image
 title: 'Megan Pennington-Boggio, photograph #3.'
 uid: a55a50d9-d860-54f1-eca1-6da783a592c4

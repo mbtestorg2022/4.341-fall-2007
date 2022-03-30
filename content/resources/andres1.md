@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Teagan Andres, photograph #1.'
   credit: Image courtesy of Teagan Andres
   image-alt: ''
+parent_uid: 608948b5-428e-08ea-fa4b-e3b1c4088130
 resourcetype: Image
 title: 'Teagan Andres, photograph #1.'
 uid: b45a7ffa-d533-c97d-e6d2-08dad483c1fa

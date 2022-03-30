@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Andy Lin, installation photo #1.'
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
+parent_uid: e081e9ad-2c64-7b00-1ec9-a11a7dc742ff
 resourcetype: Image
 title: 'Andy Lin, installation photo #1.'
 uid: fa6ef921-1f72-a7c6-e5fa-9b7368c0c4fe

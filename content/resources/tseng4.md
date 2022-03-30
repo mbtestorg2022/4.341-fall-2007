@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Tiffany Tseng, installation photo #1.'
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
+parent_uid: 32c1b603-75d5-bffc-ebd4-59a9bba994e8
 resourcetype: Image
 title: 'Tiffany Tseng, installation photo #1.'
 uid: 7d0a9389-1330-2e5e-e94e-c205d4d980a8
